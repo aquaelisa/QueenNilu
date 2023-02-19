@@ -36,11 +36,11 @@ global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
 global.botnma =  '𝔀𝓱𝓲𝓽𝓮 𝓴𝓲𝓷𝓰' 
 //👇 Your name
-global.ownernma =  'JANIYA' 
+global.ownernma =  '𝖒𝖎𝖘𝖍𝖆𝖓' 
 //👇 Sticker package name
 global.packname =  '𝔀𝓱𝓲𝓽𝓮 𝓴𝓲𝓷𝓰' 
 //👇 Sticker Author Name
-global.author =  '_JANIYA_' 
+global.author =  '_𝖒𝖎𝖘𝖍𝖆𝖓_' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'false'
 //👇 Inbox Block Massage 
@@ -105,7 +105,7 @@ global.NO_BLOCK = ["94767438882"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
-global.pemilik = '] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.pemilik = ['94769273009'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
 global.premium = ['94769273009'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = '_Janiya_' // Your name ඔබේ නම 
 global.sessionName = 'session'
