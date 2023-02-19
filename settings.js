@@ -24,7 +24,7 @@ global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
 global.owner = ['94707273009'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙽𝙸𝙻𝚄 ²⁰²³'
+global.cap = '© 𝓰𝓮𝓷𝓮𝓻𝓪𝓽𝓮𝓭 𝓫𝔂 𝔀𝓱𝓲𝓽𝓮 𝓴𝓲𝓷𝓰 ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'off'
 //👇 Inbox massage block PM block
@@ -71,7 +71,7 @@ global.MENU_IMOJI = '👸|🪄'
 //👇 Your time zone ( use correct time zone )
 global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
-global.REMOVE_BG_API = ''
+global.REMOVE_BG_API = 'PdSn9xk12aYHdzavsYb2jLq3'
 //👇 Pron Video Download 
 global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'true'
 //👇 Change Bot Language (English-' EN ', Sinhala , ' SI ' , Tamil - ' TL ')
@@ -93,7 +93,7 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || false
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
-global.NO_BLOCK = ["94767438882"]
+global.NO_BLOCK = ["94707273009"]
 
 
 
@@ -107,7 +107,7 @@ global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
 global.pemilik = ['94769273009'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
 global.premium = ['94769273009'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = '_Janiya_' // Your name ඔබේ නම 
+global.pengguna = '_𝖒𝖎𝖘𝖍𝖆𝖓_' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '🔵'
