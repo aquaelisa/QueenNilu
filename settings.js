@@ -67,7 +67,7 @@ global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 212 Number block
 global.NUMBER_212_BLOCK = 'true'
 //👇 Menu imoji 
-global.MENU_IMOJI = '👸|🪄'
+global.MENU_IMOJI = '❇️|🪄'
 //👇 Your time zone ( use correct time zone )
 global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
@@ -79,7 +79,22 @@ global.LANG = 'SI'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://te.legra.ph/file/3e57249993356ba15109f.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || ``
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `*❇️ඔයාලට මේ ᗷᗝ丅 ගෙන් කරගන්න පුලුවන් වැඩ දැන ගන්න❇️*
+
+*⭕️.panel*
+*⭕️.menu*
+*⭕️.song*
+*⭕️.video*
+
+*💢type කරල send  කරන්න💢*
+
+*💢Group link දැමීම තහනම්.💢*
+
+*💢අනවශ්‍ය message දැමීම තහනම්.💢*
+
+*💢Group එකට අදාළ message පමනක් දාන්න. 💢* 
+
+*💢8 AM - 8 PM  💢*`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
